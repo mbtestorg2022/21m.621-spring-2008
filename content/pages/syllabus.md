@@ -34,13 +34,66 @@ Class Requirements
 4.  Three performance projects on the topics described below. The performance projects account for 45% of the final grade (15% each).
 5.  A final group creative project, that draws on themes of the semester. The final assignment will account for 25% of the final grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation in class discussions | 10% |
-| Two response papers (5% each) | 10% |
-| Participation as run crew or performer on one performance project | 10% |
-| Three performance projects (15% each) | 45% |
-| Final group creative project | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in class discussions
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two response papers (5% each)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation as run crew or performer on one performance project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three performance projects (15% each)
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final group creative project
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Performances on Campus
 -------------------------------
@@ -70,12 +123,165 @@ Calendar
 
 The course will be divided into six major units. Most contain sessions with various visiting artists, as detailed below. More information about each guest artist can be found here: ([PDF]({{< baseurl >}}/resources/mit21m_670s08_details))
 
-| SES # | TOPICS | EVENTS | KEY DATES |
-| --- | --- | --- | --- |
-| 1-3 | {{< h 3 >}}Unit I: Introduction and overview{{< /h >}} {{< br >}}{{< br >}} What is culture? And how do we identify culture and performance in American theater? A sharing of family traditions and the creation of "stereotypical" history of immigration to the United States. This unit will provide students with a general overview of basic concepts such as theater, movement, culture, diversity, and composition. {{< br >}}{{< br >}}  | Ses #1: Guest Artist Workshop, Melissa Blanco-Borelli | &nbsp; |
-| 4-9 | {{< h 3 >}}Unit II: African American theatrical traditions{{< /h >}} {{< br >}}{{< br >}} What are African American traditions of theater? How do music and dance figure in the construction of African American experience on stage? How is the "dancing black body" represented on stages? {{< br >}}{{< br >}}  | Ses #4, #6, #8: Guest Lectures, Brenda Dixon Gottschild | Performance project 1 due in Ses #9 – autobiography without words |
-| 10-13 | {{< h 3 >}}Unit III: Latino/a and Chicano theatrical traditions part I{{< /h >}} {{< br >}}{{< br >}} What sorts of Chicano and Latino/a American theatrical traditions have emerged in the past century? A focus on the plays of Miguel Piñero. {{< br >}}{{< br >}}  | Ses #10: Visiting Artist, Rafael Sanchez from Design Studio for Social Intervention | Performance project 2 due in Ses #13 – spoken word poetry exercise |
-| 14-17 | {{< h 3 >}}Unit IV: Asian American theatrical traditions{{< /h >}} {{< br >}}{{< br >}} How can theater express Asian American cultural heritage? What sorts of stories do Asian diaspora playwrights chose to tell? A consideration of David Henry Hwang's M. Butterfly. {{< br >}}{{< br >}}  | Ses #14: Visiting Artists, Kit Yan and Melissa Li | Performance project 3 due in Ses #17 – gender and secrecy |
-| 18-21 | {{< h 3 >}}Unit V: Latina/Chicana theatrical traditions part 2{{< /h >}} {{< br >}}{{< br >}} Visiting Artist Ana Castillo will come work with us on her play. {{< br >}}{{< br >}}  | Visiting Artist Workshop, Ana Castillo | &nbsp; |
-| 22-23 | {{< h 3 >}}Unit VI: Reaching beyond diversity{{< /h >}} {{< br >}}{{< br >}} How can we reach beyond the rubric of diversity to explore particular histories and theatrical methodologies? {{< br >}}{{< br >}}  | &nbsp; |
-| 24-25 | Final group projects | &nbsp; | Final group projects due in Ses #24 and #25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+EVENTS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Unit I: Introduction and overview
+
+What is culture? And how do we identify culture and performance in American theater? A sharing of family traditions and the creation of "stereotypical" history of immigration to the United States. This unit will provide students with a general overview of basic concepts such as theater, movement, culture, diversity, and composition.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #1: Guest Artist Workshop, Melissa Blanco-Borelli
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Unit II: African American theatrical traditions
+
+What are African American traditions of theater? How do music and dance figure in the construction of African American experience on stage? How is the "dancing black body" represented on stages?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #4, #6, #8: Guest Lectures, Brenda Dixon Gottschild
+{{< tdclose >}}
+{{< tdopen >}}
+Performance project 1 due in Ses #9 – autobiography without words
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Unit III: Latino/a and Chicano theatrical traditions part I
+
+What sorts of Chicano and Latino/a American theatrical traditions have emerged in the past century? A focus on the plays of Miguel Piñero.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #10: Visiting Artist, Rafael Sanchez from Design Studio for Social Intervention
+{{< tdclose >}}
+{{< tdopen >}}
+Performance project 2 due in Ses #13 – spoken word poetry exercise
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Unit IV: Asian American theatrical traditions
+
+How can theater express Asian American cultural heritage? What sorts of stories do Asian diaspora playwrights chose to tell? A consideration of David Henry Hwang's M. Butterfly.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #14: Visiting Artists, Kit Yan and Melissa Li
+{{< tdclose >}}
+{{< tdopen >}}
+Performance project 3 due in Ses #17 – gender and secrecy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Unit V: Latina/Chicana theatrical traditions part 2
+
+Visiting Artist Ana Castillo will come work with us on her play.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Visiting Artist Workshop, Ana Castillo
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Unit VI: Reaching beyond diversity
+
+How can we reach beyond the rubric of diversity to explore particular histories and theatrical methodologies?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-25
+{{< tdclose >}}
+{{< tdopen >}}
+Final group projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final group projects due in Ses #24 and #25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

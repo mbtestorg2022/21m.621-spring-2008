@@ -29,14 +29,153 @@ Before both final project presentation sessions, students first went through sev
 
 Example student projects from Spring 2004:
 
-| SESSION I | SESSION II |
-| --- | --- |
-| Tawanda Sibanda, with Katelyn Giovannucci  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-I-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 14 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-I-critique-11may2004-220k.mp4)) | Jazlyn Carvajal, with Camilo Aladro and Soraya Scroggins  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-X-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 17 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-X-critique-13may2004-220k.mp4)) |
-| Megumi Ando, with Alma Rico and John Wang  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-II-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-II-critique-11may2004-220k.mp4)) | Chris McQuinn  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 4 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XI-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 17 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XI-critique-13may2004-220k.mp4)) |
-| John Wang, with Tawanda Sibanda and Tim Abrahamsen  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 11 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-III-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-III-critique-11may2004-220k.mp4)) | Caroline Reilly, with Andrea Dooley, Antonio Baca, and Jessica Harris  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 11 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XII-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 19 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XII-critique-13may2004-220k.mp4)) |
-| Andrea Dooley, with Antonio Baca, Soraya Scroggins, and Oliver de la Cruz  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IV-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 24 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IV-critique-11may2004-220k.mp4)) | Tim Abrahamsen, with John Wang and Chris McQuinn  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIII-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 27 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIII-critique-13may2004-220k.mp4)) |
-| Michael Fritts, with Oliver de la Cruz and Ato Ulzen-Appiah  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 10 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-V-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 24 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-V-critique-11may2004-220k.mp4)) | Jessica Harris, with Gaylee Saliba and Megumi Ando  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 5 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIV-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 20 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIV-critique-13may2004-220k.mp4)) |
-| Alma Rico, with Jazlyn Carvajal and Caroline Reilly  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VI-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 20 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VI-critique-11may2004-220k.mp4)) | Soraya Scroggins, with Andrea Dooley, Katelyn Giovannucci, Michael Fritts, and Alma Rico  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 14 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XV-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 16 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XV-critique-13may2004-220k.mp4)) |
-| Katelyn Giovannucci, with Tawanda Sibanda  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VII-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 19 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VII-critique-11may2004-220k.mp4)) | Camilo Aladro, with Gaylee Saliba, Michael Fritts, Jazlyn Carvajal, and Megumi Ando  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 20 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVI-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 7 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVI-critique-13may2004-220k.mp4)) |
-| Ato Ulzen-Appiah, with Michael Fritts and Camilo Aladro  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 9 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VIII-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 22 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VIII-critique-11may2004-220k.mp4)) | Antonio Baca, with Caroline Reilly and Jessica Harris  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVII-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 6 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVII-critique-13may2004-220k.mp4)) |
-| Oliver de la Cruz, with Chris McQuinn  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 3 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IX-perform-11may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 14 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IX-critique-11may2004-220k.mp4)) | Gaylee Saliba, with Camilo Aladro and Andrea Dooley  {{< br >}}  {{< br >}}_Project:_ ([MP4 - 15 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVIII-perform-13may2004-220k.mp4))  {{< br >}}_Review:_ ([MP4 - 12 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVIII-critique-13may2004-220k.mp4))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SESSION I
+{{< thclose >}}
+{{< thopen >}}
+SESSION II
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tawanda Sibanda, with Katelyn Giovannucci  
+  
+_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-I-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 14 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-I-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Jazlyn Carvajal, with Camilo Aladro and Soraya Scroggins  
+  
+_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-X-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 17 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-X-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Megumi Ando, with Alma Rico and John Wang  
+  
+_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-II-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-II-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Chris McQuinn  
+  
+_Project:_ ([MP4 - 4 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XI-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 17 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XI-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+John Wang, with Tawanda Sibanda and Tim Abrahamsen  
+  
+_Project:_ ([MP4 - 11 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-III-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-III-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Caroline Reilly, with Andrea Dooley, Antonio Baca, and Jessica Harris  
+  
+_Project:_ ([MP4 - 11 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XII-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 19 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XII-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Andrea Dooley, with Antonio Baca, Soraya Scroggins, and Oliver de la Cruz  
+  
+_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IV-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 24 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IV-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Tim Abrahamsen, with John Wang and Chris McQuinn  
+  
+_Project:_ ([MP4 - 13 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIII-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 27 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIII-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Michael Fritts, with Oliver de la Cruz and Ato Ulzen-Appiah  
+  
+_Project:_ ([MP4 - 10 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-V-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 24 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-V-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Jessica Harris, with Gaylee Saliba and Megumi Ando  
+  
+_Project:_ ([MP4 - 5 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIV-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 20 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XIV-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alma Rico, with Jazlyn Carvajal and Caroline Reilly  
+  
+_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VI-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 20 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VI-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Soraya Scroggins, with Andrea Dooley, Katelyn Giovannucci, Michael Fritts, and Alma Rico  
+  
+_Project:_ ([MP4 - 14 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XV-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 16 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XV-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Katelyn Giovannucci, with Tawanda Sibanda  
+  
+_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VII-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 19 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VII-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Camilo Aladro, with Gaylee Saliba, Michael Fritts, Jazlyn Carvajal, and Megumi Ando  
+  
+_Project:_ ([MP4 - 20 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVI-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 7 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVI-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ato Ulzen-Appiah, with Michael Fritts and Camilo Aladro  
+  
+_Project:_ ([MP4 - 9 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VIII-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 22 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-VIII-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Antonio Baca, with Caroline Reilly and Jessica Harris  
+  
+_Project:_ ([MP4 - 8 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVII-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 6 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVII-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oliver de la Cruz, with Chris McQuinn  
+  
+_Project:_ ([MP4 - 3 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IX-perform-11may2004-220k.mp4))  
+_Review:_ ([MP4 - 14 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-IX-critique-11may2004-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Gaylee Saliba, with Camilo Aladro and Andrea Dooley  
+  
+_Project:_ ([MP4 - 15 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVIII-perform-13may2004-220k.mp4))  
+_Review:_ ([MP4 - 12 MB](http://www.archive.org/download/MIT21M.621S04/ocw-21M.621-XVIII-critique-13may2004-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
